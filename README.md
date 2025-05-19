@@ -1,8 +1,8 @@
-**Text-based pokemon-inspired game**
+# Text-based pokemon-inspired game
 
 Coded with python for Computational Thinking For Design 10.014
 
-Overview of game
+**Overview of game**
 
 Create attacking pet and the game starts with the one to get the first move being randomly decided.
 
